@@ -1,7 +1,7 @@
 # Note-Taking App
 
 ## Introduction
-The Note-Taking App is a simple yet powerful tool designed to help users efficiently manage their notes. Built with React, it features a user-friendly interface that allows for easy note creation, updating, deletion, and searching. This application is perfect for users looking to organize their thoughts, ideas, and tasks.
+The note-taking-app is a simple yet powerful tool designed to help users efficiently manage their notes. Built with React, it features a user-friendly interface that allows for easy note creation, updating, deletion, and searching. This application is perfect for users looking to organize their thoughts, ideas, and tasks.
 
 ## Features
 - **User Authentication**: Simple login/logout functionality for app security.
